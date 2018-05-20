@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://i8.ae/1eyl</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.toyopagroup.picaboo</string>
+                <key>bundle-version</key>
+                <string>10.31.5</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>
+🔥 (سناب عثمان)🔥
+💐🌷🌹☘️
+🔥اصدار تجريبي لتخطي الدخول ( يجب حذف الأصلي)🔥
+يتم تثبيت هذه النسخه لتخطي الدخول وبعدها تثبت  أي نسخه 
+🔥10.28.0🔥
+❤ 
+✅(رفع:أحمد المقدم)✅
+👇تابعوني عبر تويتر👇
+✅@ahmadmokaddam ✅
+Cc -DZmohaipa
+</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
